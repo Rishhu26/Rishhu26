@@ -13,13 +13,13 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:mihhirrrrrr@gmail.com">
+  <a href="mailto:rishukr995529@gmail.com">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/money-chaudhary">
+  <a href="https:https://www.linkedin.com/in/rishu-kumar-54519831a/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="https://github.com/Moneyy02">
+  <a href="https:https://github.com/Rishhu26">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
   </a>
   <!-- Replace the following links with your actual profiles if any -->
@@ -43,7 +43,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Money Chaudhary
+name: RISHU KUMAR
 located_in: Greater Noida, India
 education:
   [
@@ -92,9 +92,9 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
 <h2> 📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <!-- Replace 'MoneyChaudhary' with your actual GitHub username if different -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MoneyChaudhary&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoneyChaudhary&theme=radical" alt="streak" height="150"/>
+  <!-- Replace 'Rishu kumar' with your actual GitHub username if different -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishukumar&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishukumar&theme=radical" alt="streak" height="150"/>
 </p>
 
 ---
