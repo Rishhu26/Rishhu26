@@ -43,28 +43,26 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: RISHU KUMAR
+Name: RISHU KUMAR
 located_in: Greater Noida, India
 education:
   [
     "B.Tech in Computer Science & IT",
   ]
 current_status: "Fresher | Building Projects & Learning DSA"
-skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "MySQL", "Figma", "NodeJS", "ExpressJS", "Git", "Github"]
+skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "MySQL", "NodeJS", "ExpressJS", "Git", "Github"]
 
 
 fields_of_interests:
   [
     "Web Development",
-    "UI/UX",
     "Data Structures & Algorithms",
     "Databases",
-    "Data Science",
   ]
 
-currently_learning: ["MySQL", "DSA (Striver A2Z)", "Advanced JavaScript"]
+currently_learning: ["MySQL", "DSA (Striver A2Z)", "JavaScript"]
 2025_goals: ["Master DSA", "Build 10+ Projects", "Contribute to Open Source"]
-hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
+
 ```
 
 ---
