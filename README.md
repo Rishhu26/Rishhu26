@@ -102,6 +102,10 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RishukrC_?theme=dark&font=Baloo)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Rishhu26/Rishhu26/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
