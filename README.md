@@ -98,7 +98,9 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
 </p>
 
 ---
+## 🧩 LeetCode Progress
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/RishukrC_?theme=dark&font=Baloo)
 
 
 
