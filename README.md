@@ -106,6 +106,8 @@ hobbies: ["Coding", "Designing in Figma", "Exploring New Tech", "Cinema"]
 
 ![Snake animation](https://github.com/Rishhu26/Rishhu26/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/Rishhu26/Rishhu26/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
