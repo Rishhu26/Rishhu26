@@ -97,6 +97,9 @@ currently_learning: ["MySQL", "DSA (Striver A2Z)", "JavaScript"]
 
 ---
 
+### 📈 Contribution Graph
+
+![snake gif](https://github.com/Rishhu26/Rishhu26/blob/output/github-contribution-grid-snake.svg)
 
 
 
